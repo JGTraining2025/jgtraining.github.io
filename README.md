@@ -53,7 +53,7 @@ Este repositorio está pensado como base para tu landing page. Si deseas realiza
 
 Si tienes alguna duda o necesitas asistencia adicional:
 - **Jonatan González** – Profe de Educación Física y creador de JG TRAINING.
-- [Correo electrónico o medio de contacto]
+- [prof.jonatangonzalez@gmail.com]
 
 ## Licencia
 
